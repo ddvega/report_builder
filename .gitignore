@@ -1,0 +1,10 @@
+/env
+.idea
+*.json
+*.xlsx
+*/__pycache__
+*.DS_Store
+/build
+/dist
+*.spec
+*.pyc
